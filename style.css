@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+.content{
+    background-color: silver;
+    padding: 20px;
+}
+img.octocat {
+    height: 200px;
+    background-color: white;
+    margin: 30px;
+}
+.row-1{
+    background-color: #58c4db;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 15px;
+}
+.row-2{
+    background-color: #d3a3c0;
+    display: flex;
+    align-items: center;
+    margin: 15px;
+    justify-content: space-around;
+}
+.row-3{
+    background-color: #fcfcfc;
+    display: flex;
+    align-items: center;
+    margin: 15px;
+    justify-content: space-evenly;
+}
